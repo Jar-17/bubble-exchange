@@ -1,0 +1,27 @@
+# ninja log v5
+0	143	6904435099723524	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+145	345	6904435101665954	bubble_exchange.exe	a744c57cc3986f1
+15	153	6904435881744879	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+154	314	6904435883284206	bubble_exchange.exe	a744c57cc3986f1
+1	157	6904441176511856	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+158	340	6904441178319827	bubble_exchange.exe	a744c57cc3986f1
+3	152	6904442433752484	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+153	299	6904442435154109	bubble_exchange.exe	a744c57cc3986f1
+1	114	6904442999265621	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+115	263	6904443000688896	bubble_exchange.exe	a744c57cc3986f1
+2	135	6904443361219621	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+136	289	6904443362700599	bubble_exchange.exe	a744c57cc3986f1
+3	122	6904443543212926	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+123	264	6904443544567737	bubble_exchange.exe	a744c57cc3986f1
+2	112	6904443967866549	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+112	257	6904443969252253	bubble_exchange.exe	a744c57cc3986f1
+2	118	6904444316890153	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+119	256	6904444318204076	bubble_exchange.exe	a744c57cc3986f1
+2	139	6904444999418583	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+140	296	6904445000902542	bubble_exchange.exe	a744c57cc3986f1
+2	124	6904447632954044	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+124	267	6904447634325482	bubble_exchange.exe	a744c57cc3986f1
+2	142	6904449113264088	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+143	312	6904449114913663	bubble_exchange.exe	a744c57cc3986f1
+1	156	6904451948212328	CMakeFiles/bubble_exchange.dir/main.c.obj	8a5a0864365948a0
+157	296	6904451949512618	bubble_exchange.exe	a744c57cc3986f1
